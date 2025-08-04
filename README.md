@@ -98,7 +98,7 @@ This chart compares confusion matrices for all four models side-by-side.
 
 ## ✍️ Author
 
-Ahmed Farhat
+Ahmed Farahat
 
 ---
 
