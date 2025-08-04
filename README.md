@@ -44,22 +44,22 @@ Each model was evaluated using:
 
 ### 🔹 F1 Score Comparison
 
-![F1 Score](plots/f1 score.png)
+![F1 Score](plots/f1_score.png)
 
-### 🔹 Confusion Matrix (Logistic Regression)
-
-![Confusion Matrix - LR](plots/confusion matrix for logistic regression onley.png)
-
-### 🔹 ROC Curve (Multiclass)
-
-![ROC Curve](plots/roc curve.png)
 
 ### 🔹 Confusion Matrix Comparison
 
 This chart compares confusion matrices for all four models side-by-side.
 
-![Confusion Matrix Comparison](plots/confusion matrix comparsion.png)
+![Confusion Matrix Comparison](plots/confusion_matrix_comparison.png)
 
+### 🔹 Confusion Matrix (Tuned Logistic Regression)
+
+![Confusion Matrix - LR](plots/confusion_matrix2.png)
+
+### 🔹 ROC Curve (logistic regression)
+
+![ROC Curve](plots/roc_curve.png)
 ---
 
 ## ✅ Final Model
